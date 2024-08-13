@@ -5,7 +5,10 @@ import "bootstrap/dist/css/bootstrap.css"
 
 function App() {
   return (
+    <>
     <Content/>
+    <h1>Hello</h1>
+    </>
   );
 }
 
